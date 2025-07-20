@@ -11,7 +11,7 @@ ResMagic is a clean, modern resume builder built using TypeScript, Tailwind CSS,
 
 ## 🖼️ Screenshots
 
-(![Alt text](image-link) syntax.)
+![Screenshot](https://user-images.githubusercontent.com/yourimage.png)
 
 
 ---
